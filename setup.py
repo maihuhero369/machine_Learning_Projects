@@ -7,5 +7,5 @@ setup(
     author="Hero",
     author_email="<maiHuHero369@gmail.com>",
     packages=find_packages(),
-
+    install_requires=["pymongo"]
 )
